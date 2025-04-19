@@ -1,54 +1,28 @@
-<h1 align="center">Hey there 👋 I'm Vivek Sharma</h1>
+## 👋 Hi, I'm Vivek Sharma
 
-<p align="center">
-  🚀 React Developer • ☁️ DevOps Enthusiast • 🐧 Linux User • ⌨️ Terminal Ninja
-</p>
+🧠 React Dev • ☁️ DevOps Enthusiast • 🐧 Arch Linux User • ⌨️ Neovim & Ghostty Fan
 
 ---
 
-## 🧠 About Me
+### 🚀 What I’m Up To
 
-- 🔭 Currently working on **AI projects**  
-- ⚛️ Diving deep into **React**, loving the component-based world  
-- 💻 Living the **Arch Linux + Neovim + Ghostty** life  
-- ⚙️ Building scalable backend systems & exploring cloud-native tech  
-- 🏏 Fun Fact: I never miss a good cricket match!
+- 🔭 Working on **AI Projects**
+- ⚛️ Learning & building in **React**
+- 💻 Living in the terminal with **Arch + Neovim + Ghostty**
+- 🏏 Fun Fact: Big fan of cricket!
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ```yaml
-languages:
-  - Java ☕
-  - JavaScript (Node.js) ⚡
-
-editors:
-  - Neovim 🧙
-  - IntelliJ IDEA 💡
-
-frontend:
-  - React ⚛️
-  - CSS 🎨
-
-backend:
-  - Spring Boot 🧰
-  - Gin 🍸
-  - Express.js 🚂
-
-databases:
-  - PostgreSQL 🐘
-  - SQLite 💾
-  - MongoDB 🍃
-
-devOps:
-  containerization:
-    - Docker 🐳
-    - Podman 📦
-  orchestration:
-    - Docker Compose 🧩
-    - Docker Swarm 🕸️
-  ci_cd:
-    - GitHub Actions 🎯
-  infrastructure:
-    - Ansible 🛠️
+Languages:       Java, JavaScript (Node.js)
+Frontend:        React, CSS
+Backend:         Spring Boot, Gin, Express.js
+Databases:       PostgreSQL, SQLite, MongoDB
+Editors:         Neovim, IntelliJ IDEA
+DevOps:
+  Containers:    Docker, Podman
+  Orchestration: Docker Compose, Docker Swarm
+  CI/CD:         GitHub Actions
+  Infra:         Ansible
