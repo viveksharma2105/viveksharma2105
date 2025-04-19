@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2105&theme=radical" alt="GitHub Streak" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2105&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
 ---
