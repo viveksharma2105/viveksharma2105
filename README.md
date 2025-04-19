@@ -1,14 +1,11 @@
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Hi+I'm+Vivek+Sharma!;Building+stuff+with+Java+%26+Node.js" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2105&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksharma2105&theme=radical" alt="GitHub Streak" width="30%" />
 </p>
-
-
 
 ---
 
