@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 🧑‍💻 React Dev • ☁️ DevOps Enthusiast • 🐧 Arch Linux User • ⌨️ Neovim + Ghostty Fan  
@@ -20,12 +19,8 @@
 🌐 Let's Connect
 <p align="center"> <a href="mailto:viveksharma02005@gmil.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/> </a> 
 
-
-  
 ---
-
 ## 🔧 Tech Stack
-
 ```yaml
 Languages:       Java, JavaScript (Node.js)
 Frontend:        React, CSS
