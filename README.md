@@ -18,8 +18,8 @@
 ---
 ## 🔧 Tech Stack
 ```yaml
-Languages:       Java, JavaScript (Node.js)
-Frontend:        React, CSS
+Languages:       Java, JavaScript (Node.js), TypeScript
+Frontend:        React, CSS, Tailwind
 Backend:         Spring Boot, Express.js
 Databases:       PostgreSQL, SQLite, MongoDB
 Editors:         Neovim, IntelliJ IDEA
